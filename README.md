@@ -1,7 +1,8 @@
 # Market_Segmentation_model
 This repository contains Market Segmentation Model 
 
-Market Segmentation Project: Overview and Insights
+Market Segmentation Project: Overview and Insights.![pca_result](https://github.com/user-attachments/assets/e0662ded-c711-4532-86bb-623e8845664c)
+
 1. Understanding Market Segmentation
 Market segmentation involves dividing a broad consumer or business market into sub-groups of consumers based on some type of shared characteristics. The goal is to tailor marketing strategies and campaigns to these specific segments to better meet their needs and improve sales and customer satisfaction.
 
