@@ -38,7 +38,13 @@ Market segmentation involves dividing a broad consumer or business market into s
 4. Exploratory Data Analysis (EDA) and Visualization
     EDA helps in understanding the dataset, identifying patterns, and discovering anomalies. Visualization tools like Plotly can be used to create interactive and informative graphs.
    
-5. Machine Learning Algorithms for Segmentation
+6. Machine Learning Algorithms for Segmentation
     K-Means Clustering: Widely used for market segmentation due to its simplicity and efficiency.
+
+7. Deployment Using Streamlit app
+   Download all file while running the app.py (write streamlit run app.py) in your ananconda prompt
+   ![image](https://github.com/user-attachments/assets/187be455-437d-4874-a221-7da9ac31695d)
+
+  
     
     
